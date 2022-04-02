@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NouRyjR45Rc/cWyMhgp5FhpLZx+GrCBs9pcr4lvBOxjqF5qW+BhH27BqktfYzzxvGcBwEFb0C4Oc+cCHHuFxgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\RabbitMQ - Teste\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

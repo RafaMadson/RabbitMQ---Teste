@@ -1,0 +1,17 @@
+C:\docker\Send\Receive\bin\Debug\net6.0\Receive.exe
+C:\docker\Send\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\docker\Send\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\docker\Send\Receive\bin\Debug\net6.0\Receive.dll
+C:\docker\Send\Receive\bin\Debug\net6.0\ref\Receive.dll
+C:\docker\Send\Receive\bin\Debug\net6.0\Receive.pdb
+C:\docker\Send\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.dll
+C:\docker\Send\Receive\obj\Debug\net6.0\ref\Receive.dll
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.pdb
+C:\docker\Send\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache

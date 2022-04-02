@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf636244-6a17-4c06-be02-b9be3f98b482": {
+      "ProjectGuid": "bf636244-6a17-4c06-be02-b9be3f98b482",
+      "DisplayName": "Send",
+      "ColorIndex": 0
+    },
+    "d671d9a1-564b-48e4-a61f-094e266b4c47": {
+      "ProjectGuid": "d671d9a1-564b-48e4-a61f-094e266b4c47",
+      "DisplayName": "Receive",
+      "ColorIndex": 1
+    },
+    "f6ece7ef-8370-45a0-a652-95f8759512ad": {
+      "ProjectGuid": "f6ece7ef-8370-45a0-a652-95f8759512ad",
+      "DisplayName": "Docker-Compose",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
